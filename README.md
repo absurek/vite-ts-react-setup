@@ -10,9 +10,9 @@ My setup for react with vite + typescript
 
 ## VSCode
 
-- In the project folder create a folder named `.vscode`.
 - Absolutely neccessary extensions: **ESLint**, **Prettier**!
-- Create a file named `my-project.code-workspace`:
+- In the project folder create a folder named `.vscode`.
+- Within the `.vscode` folder, create a file named `{my-project}.code-workspace`:
 
 ```JSON
 {
