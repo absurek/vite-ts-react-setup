@@ -62,7 +62,7 @@ dist-ssr
 ## ESLint
 
 - `npm i -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks`
-- Create a file named `.eslintrc`.
+- Create a file named `.eslintrc`:
 
 ```JSON
 {
