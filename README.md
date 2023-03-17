@@ -106,4 +106,4 @@ dist-ssr
 *.local
 ```
 
-**You should have a basic setup for working on a new project!**
+**You should now have a basic setup for working on a new project!**
